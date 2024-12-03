@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@pujaa.kumari1906](https://medium.com/@pujaa.kumari1906)
 
-- 💬 Ask me about **JAVA, Spring Boot, Spring Frameworks, HTML, Data Structure and Algorithms, CSS, Javascript**
+- 💬 Ask me about **React Js, Redux Saga, Tailwind CSS, Axios, Custom Hooks, HTML, Data Structure and Algorithms, CSS, Javascript**
 
 - 📫 How to reach me **pujaa.kumari1906@gmail.com**
 
