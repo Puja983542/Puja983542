@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Puja Kumari</h1>
-<h3 align="center">A passionate JAVA Backend developer</h3>
+<h3 align="center">A passionate Front-end developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://puja983542.github.io/](https://puja983542.github.io/)
 
